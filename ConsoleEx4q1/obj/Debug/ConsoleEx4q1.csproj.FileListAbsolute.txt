@@ -1,0 +1,6 @@
+C:\Users\LoveS\Desktop\tparchi\Exo3\ProjetExo4\Exo3\ConsoleEx4q1\bin\Debug\ConsoleEx4q1.exe.config
+C:\Users\LoveS\Desktop\tparchi\Exo3\ProjetExo4\Exo3\ConsoleEx4q1\bin\Debug\ConsoleEx4q1.exe
+C:\Users\LoveS\Desktop\tparchi\Exo3\ProjetExo4\Exo3\ConsoleEx4q1\bin\Debug\ConsoleEx4q1.pdb
+C:\Users\LoveS\Desktop\tparchi\Exo3\ProjetExo4\Exo3\ConsoleEx4q1\obj\Debug\ConsoleEx4q1.csprojAssemblyReference.cache
+C:\Users\LoveS\Desktop\tparchi\Exo3\ProjetExo4\Exo3\ConsoleEx4q1\obj\Debug\ConsoleEx4q1.exe
+C:\Users\LoveS\Desktop\tparchi\Exo3\ProjetExo4\Exo3\ConsoleEx4q1\obj\Debug\ConsoleEx4q1.pdb
